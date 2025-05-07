@@ -41,7 +41,7 @@ class MyHomePage extends StatelessWidget {
         tittle : const Text("Daftar Karyawan"),
       ),
       body: FutureBuilder<List<Karyawan>>(
-        future: _readJsonData{},
+        future: _readJsonDataconst {},
         builder: (context, snapshot)
         if(snapshot.hasData) {
           return ListView.builder(itemBuilder: (context, index) {
