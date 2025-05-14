@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "121104576212",
+    "project_id": "perum-app-d9b27",
+    "storage_bucket": "perum-app-d9b27.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121104576212:android:893869c5fb202c1c0b9541",
+        "android_client_info": {
+          "package_name": "com.example.perum_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3VaSOjbwZPIcdKn-22YzrPxRYJFuLSBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
